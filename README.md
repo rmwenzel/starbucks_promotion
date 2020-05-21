@@ -37,8 +37,10 @@ Response Rate (IRR) and Net Incremental Revenue (NIR).
 
 2. Predictive modeling.
 
-	Two hybrid modeling strategies were compared, both of which combined the results of two classifiers. Of these two, the model with higher IRR and NIR was selected, and tuned. The final tuned model yeilded an IRR of 1.9% on the test data, a comparable response rate to the model Starbucks came up with, which had an IRR of 1.88%.
+	Two hybrid modeling strategies were compared, both of which combined the results of two classifiers. Of these two, the model with higher IRR and NIR was selected, and tuned. 
 
-	However the final model had an NIR of 262.80 on the test data. 
-	and an NIR of 189.45. So while the final model had a comparable response rate, it'
+	The final tuned model yeilded an IRR of 1.9% on the test data, a comparable response rate to the model Starbucks came up with, which had an IRR of 1.88%.
+
+	However, the final model had an NIR of 262.80 on the test data. 
+	compared to 189.45 for the Starbucks model.
 
