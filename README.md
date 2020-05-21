@@ -32,7 +32,7 @@ Response Rate (IRR) and Net Incremental Revenue (NIR).
 
 1. Analysis of experiment.
 
-	There was very strong statistical evidence for a positive effect of the promotion in terms of incremental response rate (IRR). The observed value of IRR was 0.09%. A classical parametric hypothesis test yielded an infinitesimal $p$-value of 2.51e-134.
+	There was very strong statistical evidence for a positive effect of the promotion in terms of incremental response rate (IRR). The observed value of IRR was 0.09%. A classical parametric hypothesis test yielded an infinitesimal *p*-value of 2.51e-134.
 	A 99% boostrapped confidence interval was about (0.0075, 0.0115)
 
 2. Predictive modeling.
