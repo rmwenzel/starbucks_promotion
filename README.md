@@ -1,8 +1,5 @@
 ## Overview
 
-This project was an exercise for Udacity's DSND program.
-Note that all work here is original -- the exercise didn't have any solutions or template code.
-
 The dataset was originally used as a [take-home assignment](https://drive.google.com/file/d/18klca9Sef1Rs6q8DW4l7o349r8B70qXM/view) provided by Starbucks for their data scientist job candidates.
 
 In the experiment simulated by the data, an advertising promotion was tested to see if it would bring more customers to purchase a specific product.
